@@ -1,0 +1,41 @@
+[
+  {
+    "nome": "pessoa 1",
+    "idade": 15,
+    "ativo": false,
+    "notas": [
+      "A+",
+      "A"
+    ],
+    "telefone": {
+      "residencial": "00 0000-0000",
+      "celular": "00 0000-0000"
+    }
+  },
+  {
+    "nome": "pessoa 2",
+    "idade": 16,
+    "ativo": false,
+    "notas": [
+      "A+",
+      "A"
+    ],
+    "telefone": {
+      "residencial": "00 0000-0000",
+      "celular": "00 0000-0000"
+    }
+  },
+  {
+    "nome": "pessoa 3",
+    "idade": 17,
+    "ativo": false,
+    "notas": [
+      "A+",
+      "A"
+    ],
+    "telefone": {
+      "residencial": "00 0000-0000",
+      "celular": "00 0000-0000"
+    }
+  }
+]
